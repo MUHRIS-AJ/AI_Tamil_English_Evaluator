@@ -98,4 +98,3 @@ Python handles the logic and user interface. R adds professional-grade analysis.
 • 	
 • 	R-generated boxplot
 
-Let me know if you want this packaged into a GitHub project, zipped for deployment, or turned into a README.md.
